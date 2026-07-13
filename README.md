@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=gbxnga&style=flat-square&color=blue)
 <h3>👨‍💻 Software Engineer | Cloud Engineer | Data Engineer | Blockchain Engineer </h3>
 
-- 🔭 I’m currently the Co-Founder & CTO @ [Torche Africa (Techstars '22)](https://torche.africa)
+- 🔭 I’m currently the CTO @ [Blaaiz](https://www.blaaiz.com)
 
 - 🌱 I’m currently using **Typescript, Python & Solidity**
 
