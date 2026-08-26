@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently using **Typescript, Python & Solidity**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/gbxnga?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/gbxnga?tab=repositories)
 
-- 📝 I regulary write articles on [Gbenga Oni's Blog](https://gbengaoni.com/blog)
+- 📝 I regularly write articles on [Gbenga Oni's Blog](https://gbengaoni.com/blog)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
